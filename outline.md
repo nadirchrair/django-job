@@ -2,7 +2,7 @@ jobs:
   -title
   -job type
   -description
-  -published it
+  -published
   -vacancey
   -salary
   -category
